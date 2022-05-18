@@ -81,7 +81,7 @@ Create an App registration for Swagger
 
 Configure environment variables
 
-1. Copy the `.env.sample` file and rename to `.env`
+1. Copy the `.env.sample` file to the 'app' folder, and rename to `.env`
 1. Set the `API_CLIENT_ID`, `API_CLIENT_SECRET` and `SWAGGER_UI_CLIENT_ID` to the values you gathered above
 1. Set the `AAD_TENANT_ID` to your Azure Tenant ID
 
